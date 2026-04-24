@@ -14,6 +14,7 @@ Analyser le trafic web et détecter les anomalies à l’aide du Machine Learnin
 - Prédiction du trafic (Deep Learning - LSTM)
 
 ## Structure du projet
+- dl-model : modèles de Deep Learning
 - ml-model : modèles de Machine Learning
 - backend : API et gestion des données
 - data : jeux de données
